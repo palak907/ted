@@ -1,0 +1,60 @@
+.man img{
+height: 100%;
+width: 140%;
+}
+.content{
+    padding:200px;
+    padding-top: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.content h1{
+    font-size: 50px;
+}
+.man{
+    padding: 0px;
+    margin:0px;
+}
+.main{
+    padding: 100px;
+}
+.row{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.btn{
+    margin-top: 50px;
+}
+.first{
+    padding-top: 100px;
+}
+.fa{
+    height: 20px;
+    width: 20px;
+}
+.flexcontainer{
+    display: flex;
+}
+.flexcontainer img{
+    height: 60px;
+    width: 60px;
+}
+.projects{
+    padding-top: 20px;
+    font-size: 17px;
+}
+.projects img{
+    margin: 40px;
+}
+.icon {
+display:flex;
+
+}
+.icon img{
+    padding-right: 10px;
+}
+.return img{
+    padding-left: 10px;
+}
